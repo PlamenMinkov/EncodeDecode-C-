@@ -1,0 +1,23 @@
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\bin\Debug\PlamenMinkov(1201561022)_FirstProject.exe.config
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.csprojResolveAssemblyReference.cache
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov_1201561022__FirstProject.Form1.resources
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov_1201561022__FirstProject.Properties.Resources.resources
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.csproj.GenerateResource.Cache
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\bin\Debug\PlamenMinkov(1201561022)_FirstProject.exe
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\bin\Debug\PlamenMinkov(1201561022)_FirstProject.pdb
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.exe
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.pdb
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject - Copy\PlamenMinkov(1201561022)_FirstProject\bin\Debug\PlamenMinkov(1201561022)_FirstProject.exe.config
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject - Copy\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.exe
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject - Copy\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.pdb
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject - Copy\PlamenMinkov(1201561022)_FirstProject\bin\Debug\Encoding.Decoding.exe.config
+D:\C#\Kriptirane\PlamenMinkov(1201561022)_FirstProject - Copy\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.exe.config
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.exe.config
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.exe
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.pdb
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.csprojResolveAssemblyReference.cache
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov_1201561022__FirstProject.Form1.resources
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.Properties.Resources.resources
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov(1201561022)_FirstProject.csproj.GenerateResource.Cache
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.exe
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.pdb

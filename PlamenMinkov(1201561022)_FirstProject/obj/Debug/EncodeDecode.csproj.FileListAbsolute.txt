@@ -1,0 +1,12 @@
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.csprojResolveAssemblyReference.cache
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\PlamenMinkov_1201561022__FirstProject.Form1.resources
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.Properties.Resources.resources
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.csproj.GenerateResource.Cache
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.exe
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.exe.config
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.exe
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.pdb
+D:\C#\Kriptirane\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.pdb
+D:\TelerikAcademy 2013\CV and Cover Letter\documents\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\bin\Debug\EncodeDecode.exe.config
+D:\TelerikAcademy 2013\CV and Cover Letter\documents\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.exe
+D:\TelerikAcademy 2013\CV and Cover Letter\documents\EncodeDecode\PlamenMinkov(1201561022)_FirstProject\obj\Debug\EncodeDecode.pdb
